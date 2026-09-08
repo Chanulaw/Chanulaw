@@ -26,14 +26,10 @@
 
 ---
 
-### 🎮 Interactive Mini-Game & Contributions
-> *Watch the GitHub contribution snake eat your commits!*
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanulaw/Chanulaw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chanulaw/Chanulaw/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chanulaw&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -49,18 +45,18 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Chanulaw/CineMax">
+  <a href="https://github.com/Chanulaw/CineMax" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chanulaw&repo=CineMax&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
   </a>
-  <a href="https://github.com/Chanulaw/ChatBot">
+  <a href="https://github.com/Chanulaw/ChatBot" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chanulaw&repo=ChatBot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Chanulaw/KunuLink">
+  <a href="https://github.com/Chanulaw/KunuLink" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chanulaw&repo=KunuLink&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
   </a>
-  <a href="https://github.com/Chanulaw/AirlineTickets">
+  <a href="https://github.com/Chanulaw/AirlineTickets" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chanulaw&repo=AirlineTickets&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" width="48%" />
   </a>
 </p>
@@ -72,10 +68,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chanulaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chanulaw&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chanulaw&theme=tokyonight" alt="Profile Summary Card" width="100%" />
 </p>
 
 ---
